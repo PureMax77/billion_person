@@ -4,7 +4,7 @@ export interface IPeople {
   id: string;
   name: string;
   squareImage: string;
-  newWorth: number;
+  netWorth: number;
   industries: string[];
 }
 
